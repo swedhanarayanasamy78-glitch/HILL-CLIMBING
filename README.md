@@ -108,5 +108,5 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
-<h>RESULT</h>
-Thus a graph was constructed and implementation of Simple Hill Climbing Algorithm was done successfully.
+<h>RESULT:</h>
+<h>Thus a graph was constructed and implementation of Simple Hill Climbing Algorithm was done successfully.</h>
